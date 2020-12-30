@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98176948437",
+    "project_id": "sagar-kitchen-77f27",
+    "storage_bucket": "sagar-kitchen-77f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98176948437:android:2ac37a8a2f4a32074aaa5c",
+        "android_client_info": {
+          "package_name": "com.sanat.sagar_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98176948437-03f6ch8qqvbvk5rj53059d2rsqi8d0mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb20zsMum3yYz5ll5INq8RZ9F83og0cT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98176948437-03f6ch8qqvbvk5rj53059d2rsqi8d0mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
